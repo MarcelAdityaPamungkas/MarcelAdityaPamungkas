@@ -1,8 +1,7 @@
-# Halo Semua!
-Perkenalkan saya Marcel Aditya Pamungkas. <br>
-Saya seorang mahasiswa matematika di Universitas Gadjah Mada. <br>
-Saat ini, saya sedang mengikuti kegiatan Bangkit 2024 Batch 1 dengan learning path Machine Learning. <br>
-Jika Anda tertarik untuk berkenalan denganku, silakan ikuti akun [linkedin](https://www.linkedin.com/in/marceladityapamungkas/)ku ya.
+# Hello all!
+I am an undergraduate student, majoring in Mathematics at Universitas Gadjah Mada. I am also a cohort at Bangkit Academy 2024 Batch 1, an independent study program led by Google, supported by GoTo and Traveloka.
+
+I love to work with data. I am eager to pursue my career to become a data analyst, data scientist, or machine learning. I have strong foundation at using data analyst tools such as Python, Spreadsheets, and SQL along with machine learning tools such as TensorFlow and Keras. I always improve my communication skills as I have become master of ceremony at several events. I also love to work with details and structured projects. You can visit my LinkedIn profile [here](https://www.linkedin.com/in/marceladityapamungkas/)
 
 <p align="left">
 <a href="https://github.com/MarcelAdityaPamungkas">
